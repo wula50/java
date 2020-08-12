@@ -1,0 +1,22 @@
+
+public class Ex3_13 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int name=0;
+		showName();
+		showAge();
+
+	}
+	int age=0;
+	
+	static void showName() {
+		//name cannot be resolved to a variable
+		//System.out.println(name);
+	}
+	
+	static void showAge() {
+		System.out.println(age);
+	}
+
+}
