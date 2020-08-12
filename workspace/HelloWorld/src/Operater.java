@@ -1,4 +1,6 @@
-
+/**
+ * @author: Ada
+ */
 public class Operater {
 	public static void main(String[] args) {
 		
