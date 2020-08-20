@@ -6301,3 +6301,35 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/zheng
 
 !ENTRY org.eclipse.equinox.p2.repository 2 0 2020-08-13 17:47:24.528
 !MESSAGE Server returned lastModified <= 0 for https://p3c.alibaba.com/plugin/eclipse/update/content.jar
+!SESSION 2020-08-19 17:39:45.378 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=zh_CN
+Framework arguments:  -keyring /Users/zhenghui/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/zhenghui/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2020-08-19 17:39:54.455
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2020-08-19 17:41:05.649
+!MESSAGE Server returned lastModified <= 0 for https://p3c.alibaba.com/plugin/eclipse/update/content.xml.xz
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2020-08-19 17:41:05.704
+!MESSAGE Server returned lastModified <= 0 for https://p3c.alibaba.com/plugin/eclipse/update/content.jar
+!SESSION 2020-08-20 13:07:07.788 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=zh_CN
+Framework arguments:  -keyring /Users/zhenghui/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/zhenghui/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2020-08-20 13:07:20.258
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2020-08-20 13:08:44.448
+!MESSAGE Server returned lastModified <= 0 for https://p3c.alibaba.com/plugin/eclipse/update/content.xml.xz
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2020-08-20 13:08:44.512
+!MESSAGE Server returned lastModified <= 0 for https://p3c.alibaba.com/plugin/eclipse/update/content.jar
