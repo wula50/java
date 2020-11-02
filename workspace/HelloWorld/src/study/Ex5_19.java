@@ -14,6 +14,7 @@ public class Ex5_19 {
 		String str=scanner.next();
 		System.out.println("转换为大写："+str.toUpperCase());
 		System.out.println("转换为小写："+str.toLowerCase());
+		scanner.close();
 
 	}
 

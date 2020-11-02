@@ -17,6 +17,7 @@ public class Ex4_14 {
 		}else {
 			System.out.println(i+"是基数");
 		}
+		scanner.close();
 
 	}
 

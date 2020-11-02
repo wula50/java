@@ -5,7 +5,7 @@
  */
 package study;
 
-import java.lang.reflect.Array;
+//import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class Ex6_15 {

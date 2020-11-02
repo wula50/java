@@ -16,6 +16,7 @@ public class Main {
 		score=scanner.nextInt();
 		percent=(float)(score-prev)/prev*100;
 		System.out.printf("成绩提高了%.2f%%",percent);
+		scanner.close();
 	}
 
 }
