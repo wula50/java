@@ -1,0 +1,13 @@
+09-21 21:47:41.324 [main] INFO  com.itranswarp.learnjava.Main
+Start process...
+
+09-21 21:47:41.329 [main] ERROR com.itranswarp.learnjava.Main
+Invalid encoding.
+
+java.io.UnsupportedEncodingException: invalidCharsetName
+	at java.lang.StringCoding.encode(StringCoding.java:341) ~[?:1.8.0_201]
+	at java.lang.String.getBytes(String.java:918) ~[?:1.8.0_201]
+	at com.itranswarp.learnjava.Main.main(Main.java:20) [bin/:?]
+09-21 21:47:41.335 [main] INFO  com.itranswarp.learnjava.Main
+Process end.
+

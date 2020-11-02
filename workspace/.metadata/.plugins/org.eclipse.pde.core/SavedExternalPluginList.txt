@@ -1,7 +1,8 @@
-# List of external plug-in models previously loaded. Timestamp: 1596727893903
+# List of external plug-in models previously loaded. Timestamp: 1604322677654
 file:/Users/zhenghui/Desktop/Eclipse.app/Contents/Eclipse/dropins/plugins/com.alibaba.smartfox.eclipse.plugin_2.0.1.201912060506.jar
 file:/Users/zhenghui/Desktop/Eclipse.app/Contents/Eclipse/plugins/com.google.gson_2.8.2.v20180104-1110.jar
 file:/Users/zhenghui/Desktop/Eclipse.app/Contents/Eclipse/plugins/com.ibm.icu_64.2.0.v20190507-1337.jar
+file:/Users/zhenghui/Desktop/Eclipse.app/Contents/Eclipse/dropins/com.itranswarp.learnjava.practice.plugin_1.0.2.jar
 file:/Users/zhenghui/Desktop/Eclipse.app/Contents/Eclipse/plugins/com.jcraft.jsch_0.1.55.v20190404-1902.jar
 file:/Users/zhenghui/Desktop/Eclipse.app/Contents/Eclipse/plugins/com.sun.el_2.2.0.v201303151357.jar
 file:/Users/zhenghui/Desktop/Eclipse.app/Contents/Eclipse/plugins/javax.annotation_1.2.0.v201602091430.jar

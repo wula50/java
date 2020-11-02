@@ -9,4 +9,7 @@
 		<item key="3" value="false"/>
 		<item key="4" value="true"/>
 	</section>
+	<section name="ConvertedProjectWizard">
+		<item key="apiAnalysis" value="false"/>
+	</section>
 </section>
